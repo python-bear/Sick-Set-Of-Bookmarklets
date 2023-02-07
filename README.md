@@ -3,7 +3,7 @@
 
 ## What Is This? ##
 
-A collection of a few bookmarklets from a range of sources, such as old forums, websites from the wayback machine, bookmarklet tutorial websites and a few custom ones.  
+A collection of a few bookmarklets from a range of sources, such as old forums, websites from the wayback machine, bookmarklet tutorial websites and a few custom ones. 
   
 ## Setup Instructions ##
 
@@ -22,3 +22,7 @@ Navigate through the following steps, following them as applicable:
 11. If your bookmarks bar has a new folder named `Imported` go to step twelve, if nothing has changed then you have made a mistake or your browser doesn't support importing this file as a bookmark, or if you have a new folder named `Bookmarklets` in your bookmarks bar then go to step thirteen.
 12. Navigate through the `Imported` bookmarks folder to the `Bookmarklets` folder, then drag the `Bookmarklets` folder to your bookmarks bar (or wherever you want it to be). Delete the now bookmarkless `Imported` bookmarks folder and move to step thirteen.
 13. You're done, if your followed this properly you should now be able to use the bookmarklets that you downloaded.
+
+## How To Use These Bookmarklets ##
+
+Bookmarklets are bookmarks, but instead of containing a URL that your browser moves you to they instead specify that they contain JavaScript code that is to be executed on/on behalf of the current website you are in. All you need to be able to do as a user of a bookmarklet is be able to move your mouse over to their location on your bookmarks bar and click on them. If you want to edit them (change their name, or their code) is find them in your bookmarks bar or bookmarks manager, right click on them, and then choose the edit button. If you are looking to code your own bookmarklets and you already understand web development you can use the [Bookmarklet Devkit](https://www.taosdev.com/bookmarklet-devkit/) to convert your JavaScript code into a one line version easily. Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html` file and what they do. If you don't want all of the bookmarklets in the `bookmarklet_bookmarks.html` file then you can just drag the ones in the list below that you do want to your bookmarks bar, and they should work just fine.
