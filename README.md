@@ -31,8 +31,6 @@ If you are looking to code your own bookmarklets and you already understand web 
 
 Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html` file and an explanation of what they do. If you don't want all of the bookmarklets in the `bookmarklet_bookmarks.html` file then you can just drag the ones in the list below that you do want to your bookmarks bar, and they should work just fine.
 
-### Bookmarklet Documentation ###
-
 ### Bookmarklet Structure Tree ###
   
 ─╲ Bookmarks  
@@ -129,3 +127,44 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░░░░░░░├── Flower  
 ░░░░░░░░░░├── Funnel  
 ░░░░░░░░░░└── Heart  
+
+### Bookmarklet Documentation ###
+
+Reloading your page will remove/end the effect of all (if any) bookmarklet that you haved used on it. Bookmarklets work on a page per page basis, so using one will only effect the page that your are currently viewing. Also not that any changes you have on the page are only on your end and don't actually change the website or effect other people's on other computers experience.
+
+#### Edit Mode ####
+
+ - **On**: Toggles your ability to edit the page to true. You will be able to re-erite text, paste image or text, delete elements and similar editing actions. Note that these chanegs are only visible on your end and will not actually change the website, which is in fact true for all of theses bookmarklets.
+ - **Of**f: Toggles your ability to edit the page to false.
+
+#### Accessibility ####
+
+ - **Enable Right Click**: Lets you right click on websites that have right clicking disabled.
+ - **Zoom Objects**: Will increase the zise of certain aspects of the page, such as images.
+ - **Add Green, Red, or Blue Borders**: Adds green, red, or blue borders around all of the html objects/elements on the page.
+ - **Show Passwords**: Shows a message box with all of the passwords that have been entered into the page.
+ - **Remove Maxlength**: Allows you to write more characters into a text input field than you would otherwise be allowed by restrictions, this may cause websites to break when you submit the text or may cause other things to happen, such as the extra you wrote to be deleted.
+ - **Enlarge Text Areas**: Increases the size of all input text areas by five lines.
+ - **Remove All Options**: Uncheck all checkboxes, even if you would other wise have to chooses on or another.
+ - **Show Hiddens**: Reveals any hidden objects\elements on the page.
+
+#### Power Tools ####
+
+ - **Hello**: Causes the website to display a messagebox with the words `Hello, world!` in it. You could easily change the message by editing the bookmark and finding `Hello, world!` and then replacing it with something else.
+ - **Sort Table Alphabetically**: Adds a button to all tables that allows you to either make the table sort alphabetically, or sort the way it was originally.
+ - **View Selection**: Opens the stuff you currently have highlighted in a new tab.
+ - **Open All Links**: Opens all of the links on the page.
+ - **Link Text As URLs**: Changes all of the links on the page with their alt-text.
+ - **Character And Word Count**: Opens a messagebox that tells you the numbe rof characters currently on the page and the number of spaces (approximation of the number of words).
+ - **Triangle**: Makes a triangle that you can control with the arrow keys and shoot with the `?`/`/` button.
+ - **Two Triangle**: Makes a red triangle that can be controlled with the arrow keys, and a blue one with the `wasd` keys.
+ - **Random Number**: Will ask for a minimum and a maximum and then choose a random number in that range inclusive.
+ - **View Cookies**: Will show the contents of the cookies from the page in a popup.
+ - **Zap Cookies**: Deletes the cookies of the current page.
+
+#### Style/Formatting ####
+
+## Other Sources/Related Websites ##
+
+ - https://github.com/Krazete/bookmarklets
+ - https://www.taosdev.com/bookmarklet-devkit/
