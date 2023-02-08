@@ -1,5 +1,5 @@
 
-# Bookmarklet-Collection #
+# SICK SET OF BOOKMARKLETS (SSoB) #
 
 ## What Is This? ##
 
@@ -9,7 +9,7 @@ A collection of a few bookmarklets from a range of sources, such as old forums, 
 
 Navigate through the following steps, following them as applicable:
 
-1. Download the `bookmarklet_bookmarks.html` file from this Github repository (Bookmarklet-Collection), then move to step two.
+1. Download the `bookmarklet_bookmarks.html` file from this Github repository (Sick-Set-Of-Boomarklets), then move to step two.
 2. Open your chrome-based browser (others may work but haven't been tested). Move to step three.
 3. Click on the three lines/dots button to the far right of the search bar. Move to step four.
 4. If there is a `Bookmarks` menu cascade move to step five, otherwise move  to step six.
