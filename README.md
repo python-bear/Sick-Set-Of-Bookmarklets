@@ -36,96 +36,96 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ### Bookmarklet Structure Tree ###
   
 ─╲ Bookmarks  
- │  
- └──╲ Bookmarklets  
-    │  
-    ├──╲ Edit Mode  
-    │  │  
-    │  ├── On  
-    │  └── Off  
-    │  
-    ├──╲ Accessibility  
-    │  │  
-    │  ├── Enable Right Click  
-    │  ├── Zoom Objects  
-    │  ├── Add Green Borders  
-    │  ├── Add Red Borders  
-    │  ├── Add Blue Borders  
-    │  ├── Show Passwords  
-    │  ├── Remove Maxlength  
-    │  ├── Enlarge Text Areas  
-    │  ├── Remove All Options  
-    │  └── Show Hiddens  
-    │  
-    ├──╲ Power Tools  
-    │  │  
-    │  ├── Hello  
-    │  ├── Sort Table Alphabetically  
-    │  ├── View Selection  
-    │  ├── Open All Links  
-    │  ├── Link Text As URLs  
-    │  ├── Character And Word Count  
-    │  ├── Triangle  
-    │  ├── Two Triangle  
-    │  ├── Random Number  
-    │  ├── View Cookies  
-    │  └── Zap Cookies  
-    │  
-    ├──╲ Style/Formatting  
-    │  │  
-    │  ├── ToggleCSS  
-    │  ├── Lowercase  
-    │  ├── Transpose Tables  
-    │  ├── Index Table Rows  
-    │  ├── Linearize  
-    │  ├── Big Zap  
-    │  └── Basic Coloring  
-    │  
-    ├──╲ Images  
-    │  │  
-    │  ├── Zoom Images+  
-    │  ├── Zoom Images-  
-    │  ├── Reload Images  
-    │  ├── Hide All Images  
-    │  ├── Download All Images  
-    │  ├── Rotate Images  
-    │  └── Images To Alt Text  
-    │  
-    ├──╲ Color  
-    │  │  
-    │  ├── Grayscale  
-    │  ├── Anti─Grayscale  
-    │  ├── Invert Lightness  
-    │  ├── Hue+  
-    │  ├── Hue-  
-    │  ├── Saturation+  
-    │  ├── Saturation-  
-    │  ├── Lightness+  
-    │  ├── Lightness-  
-    │  ├── Accent Red  
-    │  ├── Accent Green  
-    │  └── Accent Blue  
-    │  
-    ├──╲ Shaders  
-    │  │  
-    │  ├── Jiggle  
-    │  ├── Blur  
-    │  ├── Terminal  
-    │  ├── Bring The Links  
-    │  └── Fall Diagonally  
-    │  
-    └──╲ Sites  
-       │  
-       ├── Color Picker  
-       ├── Timer  
-       ├── Calculator  
-       ├── Unit Conversion  
-       ├── Wiki Search  
-       ├── Wikirandom  
-       ├── ASCII Table  
-       │  
-       └──╲ Graphing  
-          │  
-          ├── Flower  
-          ├── Funnel  
-          └── Heart  
+░│  
+░└──╲ Bookmarklets  
+░░░░│  
+░░░░├──╲ Edit Mode  
+░░░░│░░│  
+░░░░│░░├── On  
+░░░░│░░└── Off  
+░░░░│  
+░░░░├──╲ Accessibility  
+░░░░│░░│  
+░░░░│░░├── Enable Right Click  
+░░░░│░░├── Zoom Objects  
+░░░░│░░├── Add Green Borders  
+░░░░│░░├── Add Red Borders  
+░░░░│░░├── Add Blue Borders  
+░░░░│░░├── Show Passwords  
+░░░░│░░├── Remove Maxlength  
+░░░░│░░├── Enlarge Text Areas  
+░░░░│░░├── Remove All Options  
+░░░░│░░└── Show Hiddens  
+░░░░│  
+░░░░├──╲ Power Tools  
+░░░░│░░│  
+░░░░│░░├── Hello  
+░░░░│░░├── Sort Table Alphabetically  
+░░░░│░░├── View Selection  
+░░░░│░░├── Open All Links  
+░░░░│░░├── Link Text As URLs  
+░░░░│░░├── Character And Word Count  
+░░░░│░░├── Triangle  
+░░░░│░░├── Two Triangle  
+░░░░│░░├── Random Number  
+░░░░│░░├── View Cookies  
+░░░░│░░└── Zap Cookies  
+░░░░│  
+░░░░├──╲ Style/Formatting  
+░░░░│░░│  
+░░░░│░░├── ToggleCSS  
+░░░░│░░├── Lowercase  
+░░░░│░░├── Transpose Tables  
+░░░░│░░├── Index Table Rows  
+░░░░│░░├── Linearize  
+░░░░│░░├── Big Zap  
+░░░░│░░└── Basic Coloring  
+░░░░│  
+░░░░├──╲ Images  
+░░░░│░░│  
+░░░░│░░├── Zoom Images+  
+░░░░│░░├── Zoom Images-  
+░░░░│░░├── Reload Images  
+░░░░│░░├── Hide All Images  
+░░░░│░░├── Download All Images  
+░░░░│░░├── Rotate Images  
+░░░░│░░└── Images To Alt Text  
+░░░░│  
+░░░░├──╲ Color  
+░░░░│░░│  
+░░░░│░░├── Grayscale  
+░░░░│░░├── Anti─Grayscale  
+░░░░│░░├── Invert Lightness  
+░░░░│░░├── Hue+  
+░░░░│░░├── Hue-  
+░░░░│░░├── Saturation+  
+░░░░│░░├── Saturation-  
+░░░░│░░├── Lightness+  
+░░░░│░░├── Lightness-  
+░░░░│░░├── Accent Red  
+░░░░│░░├── Accent Green  
+░░░░│░░└── Accent Blue  
+░░░░│  
+░░░░├──╲ Shaders  
+░░░░│░░│  
+░░░░│░░├── Jiggle  
+░░░░│░░├── Blur  
+░░░░│░░├── Terminal  
+░░░░│░░├── Bring The Links  
+░░░░│░░└── Fall Diagonally  
+░░░░│  
+░░░░└──╲ Sites  
+░░░░░░░│  
+░░░░░░░├── Color Picker  
+░░░░░░░├── Timer  
+░░░░░░░├── Calculator  
+░░░░░░░├── Unit Conversion  
+░░░░░░░├── Wiki Search  
+░░░░░░░├── Wikirandom  
+░░░░░░░├── ASCII Table  
+░░░░░░░│  
+░░░░░░░└──╲ Graphing  
+░░░░░░░░░░│  
+░░░░░░░░░░├── Flower  
+░░░░░░░░░░├── Funnel  
+░░░░░░░░░░└── Heart  
