@@ -41,7 +41,7 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│  
 ░░░░├──╲ Edit Mode  
 ░░░░│░░│  
-░░░░│░░├── On  
+░░░░│░░├── [On](javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0)  
 ░░░░│░░└── Off  
 ░░░░│  
 ░░░░├──╲ Accessibility  
