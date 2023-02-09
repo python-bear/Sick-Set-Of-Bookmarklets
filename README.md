@@ -221,7 +221,25 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Funnel**: Opens a new tab and searches with the graph equation for making a funnel-like 3D graph.
  - **Heart**: Opens a new tab and searches with the graph equation for making a heart-like 3D graph.
 
-## Other Sources/Related Websites ##
+## Sources/Related Websites ##
 
  - https://github.com/Krazete/bookmarklets
  - https://www.taosdev.com/bookmarklet-devkit/
+ - https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/readability-bookmarklet/
+ - https://flippant.artequalswork.com/
+ - https://github.com/Damako4/Bookmarklets
+ - https://www.online-tech-tips.com/google-softwaretips/how-to-export-and-import-chrome-bookmarks/
+ - https://news.ycombinator.com/item?id=4208102
+ - https://fontbomb.ilex.ca/
+ - https://subsimple.com/bookmarklets/collection_activex.php
+ - https://subsimple.com/bookmarklets/collection_experimental.php
+ - https://web.archive.org/web/20170226093723/http://nontroppo.org/wiki/Bookmarklets
+ - https://4umi.com/web/bookmarklet/
+ - https://subsimple.com/bookmarklets/links.php
+ - https://www.bookmarklets.com/
+ - https://sam-i-am.com/work/bookmarklets/
+ - https://samrod.com/
+ - https://www.squarefree.com/bookmarklets/validation.html
+ - https://web.archive.org/web/20151216233359/http://www.bookmarklets.com/tools/categor.html
+ - http://www.bookmarklets.com/tools/categor.html
+ - https://kickassapp.com/
