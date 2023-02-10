@@ -62,19 +62,14 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── View Selection  
 ░░░░│░░├── Open All Links  
 ░░░░│░░├── Link Text As URLs  
-░░░░│░░├── Character And Word Count  
 ░░░░│░░├── Triangle  
 ░░░░│░░├── Two Triangle  
-░░░░│░░├── Random Number  
-░░░░│░░├── View Cookies  
-░░░░│░░└── Zap Cookies  
+░░░░│░░├── Random Number   
 ░░░░│  
 ░░░░├──╲ Style/Formatting  
 ░░░░│░░│  
 ░░░░│░░├── ToggleCSS  
-░░░░│░░├── Lowercase  
-░░░░│░░├── Transpose Tables  
-░░░░│░░├── Index Table Rows  
+░░░░│░░├── Lowercase   
 ░░░░│░░├── Linearize  
 ░░░░│░░├── Big Zap  
 ░░░░│░░└── Basic Coloring  
@@ -112,6 +107,14 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Bring The Links  
 ░░░░│░░└── Fall Diagonally  
 ░░░░│  
+░░░░├──╲ Data  
+░░░░│░░│  
+░░░░│░░├── Transpose Tables  
+░░░░│░░├── Index Table Rows  
+░░░░│░░├── Character And Word Count  
+░░░░│░░├── View Cookies  
+░░░░│░░└── Zap Cookies  
+░░░░│  
 ░░░░└──╲ Sites  
 ░░░░░░░│  
 ░░░░░░░├── Color Picker  
@@ -135,7 +138,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
 #### Edit Mode ####
 
  - **On**: Toggles your ability to edit the page to true. You will be able to re-write text, paste image or text, delete elements and similar editing actions. Note that these changes are only visible on your end and will not actually change the website, which is in fact true for all of these bookmarklets.
- - **Of**f: Toggles your ability to edit the page to false.
+ - **Off**: Toggles your ability to edit the page to false.
 
 #### Accessibility ####
 
@@ -155,19 +158,14 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **View Selection**: Opens the stuff you currently have highlighted in a new tab.
  - **Open All Links**: Opens all of the links on the page.
  - **Link Text As URLs**: Changes all of the links on the page with their alt-text.
- - **Character And Word Count**: Opens a message box that tells you the number of characters currently on the page and the number of spaces (approximation of the number of words).
  - **Triangle**: Makes a triangle that you can control with the arrow keys and shoot with the `?`/`/` button.
  - **Two Triangle**: Makes a red triangle that can be controlled with the arrow keys, and a blue one with the `wasd` keys.
  - **Random Number**: Will ask for a minimum and a maximum and then choose a random number in that range inclusive.
- - **View Cookies**: Will show the contents of the cookies from the page in a popup.
- - **Zap Cookies**: Deletes the cookies of the current page.
 
 #### Style/Formatting ####
 
  - **ToggleCSS**: Turns off CSS use of the page if it is on and turns it on if it is off.
  - **Lowercase**: Converts all text into its lowercase form, doesn't work on images.
- - **Transpose Tables**: Transposes all tables on the page (makes the rows into the columns and vice-versa at the same instant).
- - **Index Table Rows**: Adds a new column at the start of each table that has an index in it for each row starting at 1 and not including the heading/top row.
  - **Linearize**: Moves all of the text and other objects so that they are middle-centred and are positioned in the middle of the screen.
  - **Big Zap**: Removes unneeded formatting, makes the color scheme more normal and removes objects that make it harder to read.
  - **Basic Coloring**: Changes the text color to black, blue for URLs/links and purple for unvisited ones, also sets the background to white.
@@ -204,6 +202,14 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Terminal**: Makes the page look like a retro terminal, with the background black, most images gone, most text green but links in red.
  - **Bring The Links**: Makes all text grey but links bright red, so you can see them more easily.
  - **Fall Diagonally**: Makes all objects on the current page fall in random directions and then reset and loop.
+ 
+#### Data ####
+
+ - **Transpose Tables**: Transposes all tables on the page (makes the rows into the columns and vice-versa at the same instant).
+ - **Index Table Rows**: Adds a new column at the start of each table that has an index in it for each row starting at 1 and not including the heading/top row.
+ - **Character And Word Count**: Opens a message box that tells you the number of characters currently on the page and the number of spaces (approximation of the number of words).
+ - **View Cookies**: Will show the contents of the cookies from the page in a popup.
+ - **Zap Cookies**: Deletes the cookies of the current page.
 
 #### Sites ####
 
