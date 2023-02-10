@@ -62,9 +62,7 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── View Selection  
 ░░░░│░░├── Open All Links  
 ░░░░│░░├── Link Text As URLs  
-░░░░│░░├── Triangle  
-░░░░│░░├── Two Triangle  
-░░░░│░░├── Random Number   
+░░░░│░░└── Random Number   
 ░░░░│  
 ░░░░├──╲ Style/Formatting  
 ░░░░│░░│  
@@ -89,6 +87,7 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Grayscale  
 ░░░░│░░├── Anti─Grayscale  
 ░░░░│░░├── Invert Lightness  
+░░░░│░░├── Invert Objects  
 ░░░░│░░├── Hue+  
 ░░░░│░░├── Hue-  
 ░░░░│░░├── Saturation+  
@@ -105,7 +104,9 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Blur  
 ░░░░│░░├── Terminal  
 ░░░░│░░├── Bring The Links  
-░░░░│░░└── Fall Diagonally  
+░░░░│░░├── Fall Diagonally  
+░░░░│░░├── Tri  
+░░░░│░░└── YTGlow  
 ░░░░│  
 ░░░░├──╲ Data  
 ░░░░│░░│  
@@ -114,6 +115,14 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Character And Word Count  
 ░░░░│░░├── View Cookies  
 ░░░░│░░└── Zap Cookies  
+░░░░│  
+░░░░├──╲ Games  
+░░░░│░░│  
+░░░░│░░├── Mouselight   
+░░░░│░░├── Triangle   
+░░░░│░░├── Two Triangle  
+░░░░│░░├── Tic  
+░░░░│░░└── Lupire  
 ░░░░│  
 ░░░░└──╲ Sites  
 ░░░░░░░│  
@@ -158,8 +167,6 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **View Selection**: Opens the stuff you currently have highlighted in a new tab.
  - **Open All Links**: Opens all of the links on the page.
  - **Link Text As URLs**: Changes all of the links on the page with their alt-text.
- - **Triangle**: Makes a triangle that you can control with the arrow keys and shoot with the `?`/`/` button.
- - **Two Triangle**: Makes a red triangle that can be controlled with the arrow keys, and a blue one with the `wasd` keys.
  - **Random Number**: Will ask for a minimum and a maximum and then choose a random number in that range inclusive.
 
 #### Style/Formatting ####
@@ -185,6 +192,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Grayscale**: Makes everything black, white, and gray.
  - **Anti─Grayscale**: Makes everything colorful.
  - **Invert Lightness**: Inverts the lightness of all non-image objects on the page.
+ - **Invert Objects**: Inverts the lightness of all media on the page, such as images.
  - **Hue+**: Increases the hue value of colors on the page.
  - **Hue-**: Decreases the hue value of colors on the page.
  - **Saturation+**: Slightly increases the saturation of the page.
@@ -202,6 +210,8 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Terminal**: Makes the page look like a retro terminal, with the background black, most images gone, most text green but links in red.
  - **Bring The Links**: Makes all text grey but links bright red, so you can see them more easily.
  - **Fall Diagonally**: Makes all objects on the current page fall in random directions and then reset and loop.
+ - **Tri**: Allows you to view the page as if it is 3D, it will layer objects and has other 3D visuals also, it even has a menu.
+ - **YTGlow**: Has an effect like YouTube's ambient mode, but it works on all videos and works by adding a blur effect behind the video. This bookmarklet is a switch, meaning it will toggle if it is on or not, and you don't have to reload to get rid of it.
  
 #### Data ####
 
@@ -210,6 +220,14 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Character And Word Count**: Opens a message box that tells you the number of characters currently on the page and the number of spaces (approximation of the number of words).
  - **View Cookies**: Will show the contents of the cookies from the page in a popup.
  - **Zap Cookies**: Deletes the cookies of the current page.
+
+#### Games ####
+
+ - **Mouselight**: Makes you mouse act light a mirrored flashlight.
+ - **Triangle**: Makes a triangle that you can control with the arrow keys and shoot with the `?`/`/` button.
+ - **Two Triangle**: Makes a red triangle that can be controlled with the arrow keys, and a blue one with the `wasd` keys.
+ - **Tic**: Lets you play a game of Ultimate Tic-Tac-Toe, who's rules are explained at the following website [Ultimate Tic-Tac-Toe Rules](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/)
+ - **Lupire**: Lets you play a game following the rules on the following website [Pinball Recall](https://www.lumosity.com/brain-games/pinball-recall)
 
 #### Sites ####
 
