@@ -53,7 +53,9 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Remove Maxlength  
 ░░░░│░░├── Enlarge Text Areas  
 ░░░░│░░├── Remove All Options  
-░░░░│░░└── Show Hiddens  
+░░░░│░░├── Show Hiddens  
+░░░░│░░├── Safen Tab  
+░░░░│░░└── Enable Text Selection  
 ░░░░│  
 ░░░░├──╲ Power Tools  
 ░░░░│░░│  
@@ -80,7 +82,8 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Hide All Images  
 ░░░░│░░├── Download All Images  
 ░░░░│░░├── Rotate Images  
-░░░░│░░└── Images To Alt Text  
+░░░░│░░├── Images To Alt Text  
+░░░░│░░└── Kill Gifs  
 ░░░░│  
 ░░░░├──╲ Color  
 ░░░░│░░│  
@@ -106,15 +109,17 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Bring The Links  
 ░░░░│░░├── Fall Diagonally  
 ░░░░│░░├── Tri  
-░░░░│░░└── YTGlow  
+░░░░│░░├── YTGlow  
+░░░░│░░└── Funky Focus  
 ░░░░│  
 ░░░░├──╲ Data  
 ░░░░│░░│  
 ░░░░│░░├── Transpose Tables  
 ░░░░│░░├── Index Table Rows  
 ░░░░│░░├── Character And Word Count  
-░░░░│░░├── View Cookies  
-░░░░│░░└── Zap Cookies  
+░░░░│░░├─ View Cookies  
+░░░░│░░├── Zap Cookies  
+░░░░│░░└── Show All URLs  
 ░░░░│  
 ░░░░├──╲ Games  
 ░░░░│░░│  
@@ -159,6 +164,8 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Enlarge Text Areas**: Increases the size of all input text areas by five lines.
  - **Remove All Options**: Uncheck all checkboxes, even if you would otherwise have to chooses on or another.
  - **Show Hiddens**: Reveals any hidden objects\elements on the page.
+ - **Safen Tab**: Makes a popup asking if you're sure that you want to close the tab whenever you try and close it.
+ - **Enable Text Selection**: Lets you select text on the page.
 
 #### Power Tools ####
 
@@ -186,6 +193,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Download All Images**: Downloads all images on the page.
  - **Rotate Images**: Opens a message popup box asking for a degree then rotates all images on the page by that degree.
  - **Images To Alt Text**: Replaces all images on the page with their alt-text.
+ - **Kill Gifs**: Makes all gifs completely black, doesn't work on all websites.
 
 #### Color ####
 
@@ -212,6 +220,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Fall Diagonally**: Makes all objects on the current page fall in random directions and then reset and loop.
  - **Tri**: Allows you to view the page as if it is 3D, it will layer objects and has other 3D visuals also, it even has a menu.
  - **YTGlow**: Has an effect like YouTube's ambient mode, but it works on all videos and works by adding a blur effect behind the video. This bookmarklet is a switch, meaning it will toggle if it is on or not, and you don't have to reload to get rid of it.
+ - **Funky Focus**: Causes the currently selected/focused on object of the page to wiggle back and forwarth.
  
 #### Data ####
 
@@ -220,6 +229,8 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Character And Word Count**: Opens a message box that tells you the number of characters currently on the page and the number of spaces (approximation of the number of words).
  - **View Cookies**: Will show the contents of the cookies from the page in a popup.
  - **Zap Cookies**: Deletes the cookies of the current page.
+ - **Show All URLs**: Displays a popup showing the ULR of the page and all f-frames, each seperated by two newlines.
+ - **Fount**: Lets you click anywhere on the page and then tries to identify the font being used where you clicked.
 
 #### Games ####
 
@@ -267,3 +278,8 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - https://web.archive.org/web/20151216233359/http://www.bookmarklets.com/tools/categor.html
  - http://www.bookmarklets.com/tools/categor.html
  - https://kickassapp.com/
+ - https://fount.artequalswork.com/
+ - https://github.com/marcobiedermann/awesome-bookmarklets
+ - http://websiteasteroids.com/
+ - https://github.com/username-pass/bookmarklets
+ - https://github.com/alanhogan/bookmarklets
