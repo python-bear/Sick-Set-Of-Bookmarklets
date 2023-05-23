@@ -1,5 +1,7 @@
 
+
 # SICK SET OF BOOKMARKLETS (SSoB) #
+
 
 ## What Is This? ##
 
@@ -49,12 +51,12 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Add Green Borders  
 ░░░░│░░├── Add Red Borders  
 ░░░░│░░├── Add Blue Borders  
-░░░░│░░├── Show Passwords  
 ░░░░│░░├── Remove Maxlength  
 ░░░░│░░├── Enlarge Text Areas  
 ░░░░│░░├── Remove All Options  
 ░░░░│░░├── Show Hiddens  
 ░░░░│░░├── Safen Tab  
+░░░░│░░├── Bypass Youtube  
 ░░░░│░░└── Enable Text Selection  
 ░░░░│  
 ░░░░├──╲ Power Tools  
@@ -64,7 +66,19 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── View Selection  
 ░░░░│░░├── Open All Links  
 ░░░░│░░├── Link Text As URLs  
-░░░░│░░└── Random Number   
+░░░░│░░├── Bullets To Num-List  
+░░░░│░░├── Random Number   
+░░░░│░░├── Download Youtube Video   
+░░░░│░░└──╲ Forms  
+░░░░│░░░░░│  
+░░░░│░░░░░├── Show Passwords  
+░░░░│░░░░░├── Toggle Checkboxes  
+░░░░│░░░░░├── Tick Checkboxes  
+░░░░│░░░░░├── Untick Checkboxes  
+░░░░│░░░░░├── Untick Radiobuttons  
+░░░░│░░░░░├── Tick Radiobuttons  
+░░░░│░░░░░├── Untick Radiobutton  
+░░░░│░░░░░└── Proceed Radiobuttons  
 ░░░░│  
 ░░░░├──╲ Style/Formatting  
 ░░░░│░░│  
@@ -83,6 +97,7 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Download All Images  
 ░░░░│░░├── Rotate Images  
 ░░░░│░░├── Images To Alt Text  
+░░░░│░░├── Images to SRC  
 ░░░░│░░└── Kill Gifs  
 ░░░░│  
 ░░░░├──╲ Color  
@@ -95,22 +110,30 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│░░├── Hue-  
 ░░░░│░░├── Saturation+  
 ░░░░│░░├── Saturation-  
+░░░░│░░├── Saturation++  
+░░░░│░░├── Saturation--  
 ░░░░│░░├── Lightness+  
 ░░░░│░░├── Lightness-  
-░░░░│░░├── Accent Red  
-░░░░│░░├── Accent Green  
-░░░░│░░└── Accent Blue  
+░░░░│░░└──╲ Accent  
 ░░░░│  
 ░░░░├──╲ Shaders  
 ░░░░│░░│  
 ░░░░│░░├── Jiggle  
-░░░░│░░├── Blur  
-░░░░│░░├── Terminal  
-░░░░│░░├── Bring The Links  
 ░░░░│░░├── Fall Diagonally  
 ░░░░│░░├── Tri  
 ░░░░│░░├── YTGlow  
 ░░░░│░░└── Funky Focus  
+░░░░│░░└──╲ Graphing  
+░░░░│░░░░░│  
+░░░░│░░░░░├── Blur  
+░░░░│░░░░░├── Terminal  
+░░░░│░░░░░├── Bring The Links  
+░░░░│░░░░░├── Sepia  
+░░░░│░░░░░├── Refralect  
+░░░░│░░░░░├── Glitch  
+░░░░│░░░░░├── Negative  
+░░░░│░░░░░├── Glow  
+░░░░│░░░░░└── Vintage  
 ░░░░│  
 ░░░░├──╲ Data  
 ░░░░│░░│  
@@ -123,11 +146,50 @@ Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html`
 ░░░░│  
 ░░░░├──╲ Games  
 ░░░░│░░│  
-░░░░│░░├── Mouselight   
-░░░░│░░├── Triangle   
+░░░░│░░├── Mouselight  
+░░░░│░░├── Triangle  
 ░░░░│░░├── Two Triangle  
 ░░░░│░░├── Tic  
+░░░░│░░├── Spin  
+░░░░│░░├── Autoclicker  
+░░░░│░░├── Autoclicker X  
 ░░░░│░░└── Lupire  
+░░░░│  
+░░░░├──╲ Zap  
+░░░░│░░│  
+░░░░│░░├── Big Zap  
+░░░░│░░├── Zap Plugins  
+░░░░│░░├── Zap Colors  
+░░░░│░░├── Zap Events  
+░░░░│░░├── Zap Timers  
+░░░░│░░├── Zap Images  
+░░░░│░░├── Zap Presentational HTML  
+░░░░│░░├── Zap Style Sheets  
+░░░░│░░├── Zap Style Cookies  
+░░░░│░░├── Zap White BG  
+░░░░│░░├── Normalcase  
+░░░░│░░├── Remove Redirects  
+░░░░│░░├── Restore Selecting  
+░░░░│░░└── Restore Context Menu  
+░░░░│  
+░░░░├──╲ URL Tool Kit  
+░░░░│░░│  
+░░░░│░░├── Tree Up  
+░░░░│░░├── Tree Down  
+░░░░│░░├── Increment  
+░░░░│░░├── Decrement  
+░░░░│░░├── Go To Referrer  
+░░░░│░░├── Domain Owner  
+░░░░│░░└── History First  
+░░░░│  
+░░░░├──╲ Text  
+░░░░│░░│  
+░░░░│░░├── Selection ROT13  
+░░░░│░░├── Caesar Cipher Selection  
+░░░░│░░├── Highlight Search  
+░░░░│░░├── Highlight REGEX  
+░░░░│░░├── Encode Morsecode  
+░░░░│░░└── Decode Morsecode  
 ░░░░│  
 ░░░░└──╲ Sites  
 ░░░░░░░│  
@@ -159,12 +221,12 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Enable Right Click**: Lets you right click on websites that have right clicking disabled.
  - **Zoom Objects**: Will increase the size of certain aspects of the page, such as images.
  - **Add Green, Red, or Blue Borders**: Adds green, red, or blue borders around all of the html objects/elements on the page.
- - **Show Passwords**: Shows a message box with all of the passwords that have been entered into the page.
  - **Remove Maxlength**: Allows you to write more characters into a text input field than you would otherwise be allowed by restrictions, this may cause websites to break when you submit the text or may cause other things to happen, such as the extra you wrote to be deleted.
  - **Enlarge Text Areas**: Increases the size of all input text areas by five lines.
  - **Remove All Options**: Uncheck all checkboxes, even if you would otherwise have to chooses on or another.
  - **Show Hiddens**: Reveals any hidden objects\elements on the page.
  - **Safen Tab**: Makes a popup asking if you're sure that you want to close the tab whenever you try and close it.
+ - **Bypass Youtube**: Bypass Youtube adult filter without signing in.
  - **Enable Text Selection**: Lets you select text on the page.
 
 #### Power Tools ####
@@ -174,7 +236,19 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **View Selection**: Opens the stuff you currently have highlighted in a new tab.
  - **Open All Links**: Opens all of the links on the page.
  - **Link Text As URLs**: Changes all of the links on the page with their alt-text.
+ - **Bullets To Num-List**: Converts all bullet-lists into numbered-lists.
  - **Random Number**: Will ask for a minimum and a maximum and then choose a random number in that range inclusive.
+
+##### Forms #####
+
+ - **Show Passwords**: Shows a message box with all of the passwords that have been entered into the page.
+ - **Toggle Checkboxes**: Toggles all checkboxes.
+ - **Tick Checkboxes**: Ticks all checkboxes.
+ - **Untick Checkboxes**: Unticks all checkboxes.
+ - **Untick Radiobuttons**: Unticks all radiobuttons.
+ - **Ticks Radiobuttons**: Ticks the last radiobutton in each set, and sets the rest to false.
+ - **Untick Radiobutton**: Click on a radiobutton to clear the selection, may break websites.
+ - **Proceed Radiobuttons**: Selects the next option in each group of radiobuttons.
 
 #### Style/Formatting ####
 
@@ -193,6 +267,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Download All Images**: Downloads all images on the page.
  - **Rotate Images**: Opens a message popup box asking for a degree then rotates all images on the page by that degree.
  - **Images To Alt Text**: Replaces all images on the page with their alt-text.
+ - **Images to SRC**: Replaces all images with their source URL (SRC).
  - **Kill Gifs**: Makes all gifs completely black, doesn't work on all websites.
 
 #### Color ####
@@ -205,22 +280,30 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Hue-**: Decreases the hue value of colors on the page.
  - **Saturation+**: Slightly increases the saturation of the page.
  - **Saturation-**: Slightly decreases the saturation of the page.
+ - **Saturation++**: Sets the saturation of the website to 1 (high).
+ - **Saturation--**: Sets the saturation of the website to 0 (none).
  - **Lightness+**: Makes the page slightly lighter.
  - **Lightness-**: Makes the page slightly less light.
- - **Accent Red**: Changes most colored aspects of the page to red. Doesn't change images.
- - **Accent Green**: Changes most colored aspects of the page to green. Doesn't change images.
- - **Accent Blue**: Changes most colored aspects of the page to blue. Doesn't change images.
+ - **Accent**: Changes most colored aspects of the page to the selected color. Doesn't change images.
 
 #### Shaders ####
 
  - **Jiggle**: Makes all objects on the page move around randomly back and forward.
- - **Blur**: Opens a popup message asking for the pixel radius of the blur filter and then applies it to the page. It is recommended to use a value between 0 and 5.
- - **Terminal**: Makes the page look like a retro terminal, with the background black, most images gone, most text green but links in red.
- - **Bring The Links**: Makes all text grey but links bright red, so you can see them more easily.
  - **Fall Diagonally**: Makes all objects on the current page fall in random directions and then reset and loop.
  - **Tri**: Allows you to view the page as if it is 3D, it will layer objects and has other 3D visuals also, it even has a menu.
  - **YTGlow**: Has an effect like YouTube's ambient mode, but it works on all videos and works by adding a blur effect behind the video. This bookmarklet is a switch, meaning it will toggle if it is on or not, and you don't have to reload to get rid of it.
  - **Funky Focus**: Causes the currently selected/focused on object of the page to wiggle back and forwarth.
+ 
+##### Filters #####
+ - **Blur**: Opens a popup message asking for the pixel radius of the blur filter and then applies it to the page. It is recommended to use a value between 0 and 5.
+ - **Terminal**: Makes the page look like a retro terminal, with the background black, most images gone, most text green but links in red.
+ - **Bring The Links**: Makes all text grey but links bright red, so you can see them more easily.
+ - **Sepia**: Applies the maximum sepia filter to a page.
+ - **Refralect**: Spltis the page up into shards and does some reflection.
+ - **Glitch**: Introduces a glitch effect by randomly altering the RGB color values of the webpage elements.
+ - **Negative**: Performs color inversion to invert the colors of the webpage, creating a negative image effect.
+ - **Glow**: Applies an intense green glow to all  text on the website.
+ - **Vintage**: Applies retro-style filters to a webpage, giving it a nostalgic or vintage look and changes the color of links to an orangy-brown tone.
  
 #### Data ####
 
@@ -238,7 +321,46 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - **Triangle**: Makes a triangle that you can control with the arrow keys and shoot with the `?`/`/` button.
  - **Two Triangle**: Makes a red triangle that can be controlled with the arrow keys, and a blue one with the `wasd` keys.
  - **Tic**: Lets you play a game of Ultimate Tic-Tac-Toe, who's rules are explained at the following website [Ultimate Tic-Tac-Toe Rules](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/)
+ - **Spin**: This will make any page object start to spin once you click it.
+ - **Autoclicker**: Select the CPS you want then click where you want the autoclicker to start.
+ - **Autoclicker X**: Does some crazy autoclicking. Can't be turned off.
  - **Lupire**: Lets you play a game following the rules on the following website [Pinball Recall](https://www.lumosity.com/brain-games/pinball-recall)
+
+#### Zap ####
+
+ - **Big Zap**: Zaps plugins, colors, cheap effects, event handlers, and timers.  
+ - **Zap Plugins**: Removes java, flash, background music, and third-party iframes.  
+ - **Zap Colors**: Makes text black on a white background, and makes links blue and purple.  
+ - **Zap Events**: Removes event handlers, killing blind links and exit pop-up ads.  
+ - **Zap Timers**: Removes timers that were created with setTimeout or setInterval.  
+ - **Zap Images**: Replaces each image with its alternate text (ALT text).  
+ - **Zap Presentational HTML**: Removes most presentational attributes and tags while leaving style sheets intact.  
+ - **Zap Style Sheets**: Disables all style sheets.  
+ - **Zap Cookies**: Removes cookies set by the site, including cookies with paths and domains.  
+ - **Zap White BG**: Changes white and near-white backgrounds to tan.
+ - **Normalcase**: Makes body text and text in textareas all-lowercase.
+ - **Remove Redirects**: Changes redirecting links to go directly to the 'real' target.
+ - **Restore Selecting**: Fixes pages that disable text selection.
+ - **Restore Context Menu**: Fixes pages that disable context menus.
+
+#### URL Tool Kit ####
+
+ - **Tree Up**: Goes up a directory from the page you're viewing.  
+ - **Tree Down**: Goes to the top level of the site.  
+ - **Increment**: Increases the last number in the URL by 1.  
+ - **Decrement**: Decreases the last number in the URL by 1.  
+ - **Go To Referrer**: Like clicking the back button, but works even after opening a link in a new window.  
+ - **Domain Owner**: Tells you who owns the domain of the page you're viewing.  
+ - **History First**: Goes to the first page in this tab's history.  
+
+#### Text ####
+
+ - **Selection ROT13**: Replaces each letter in the selected text with its rot13 equivalent.  
+ - **Caesar Cipher Selection**: Asks for a shift amount. Then, using that shift amount replaces each letter in the selected text with its Caesar-Cipher equivalent.  
+ - **Highlight Search**: Highlights each occurrence of a search phrase.  
+ - **Highlight REGEX**: Highlights each match for a regular expression (regex).  
+ - **Encode Morsecode**: Replaces each letter in the selected text with its Morse-Code equivalent.  
+ - **Decode Morsecode**: Replaces the selected Morse-Code with it's Latin equivalent.  
 
 #### Sites ####
 
@@ -265,6 +387,7 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - https://github.com/Damako4/Bookmarklets
  - https://www.online-tech-tips.com/google-softwaretips/how-to-export-and-import-chrome-bookmarks/
  - https://news.ycombinator.com/item?id=4208102
+ - https://www.howtocreate.co.uk/bookmarklets.html
  - https://fontbomb.ilex.ca/
  - https://subsimple.com/bookmarklets/collection_activex.php
  - https://subsimple.com/bookmarklets/collection_experimental.php
@@ -273,11 +396,13 @@ Reloading your page will remove/end the effect of all (if any) bookmarklet that 
  - https://subsimple.com/bookmarklets/links.php
  - https://www.bookmarklets.com/
  - https://sam-i-am.com/work/bookmarklets/
+ - https://www.squarefree.com/bookmarklets/
  - https://samrod.com/
  - https://www.squarefree.com/bookmarklets/validation.html
  - https://web.archive.org/web/20151216233359/http://www.bookmarklets.com/tools/categor.html
  - http://www.bookmarklets.com/tools/categor.html
  - https://kickassapp.com/
+ - http://www.bookmarklets.com/tools/categor.html
  - https://fount.artequalswork.com/
  - https://github.com/marcobiedermann/awesome-bookmarklets
  - http://websiteasteroids.com/
