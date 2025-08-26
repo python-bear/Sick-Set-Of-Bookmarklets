@@ -31,7 +31,7 @@ Bookmarklets are bookmarks, but instead of containing a URL that your browser mo
 
 If you are looking to code your own bookmarklets and you already understand javascript you can use the [Bookmarklet Devkit](https://www.taosdev.com/bookmarklet-devkit/) to convert your JavaScript code into a one line version easily. 
 
-Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html` file and an explanation of what they do. If you don't want all of the bookmarklets in the `bookmarklet_bookmarks.html` file then you can just drag the ones in the list below that you do want to your bookmarks bar, and they should work just fine.
+Below is a list of the bookmarklets included in the `bookmarklet_bookmarks.html` file and an explanation of what they do.
 
 ### Bookmarklet Structure Tree ###
   
